@@ -1,0 +1,6 @@
+{
+  "name": "RMA Commerce LLC",
+  "description": "Premier U.S. multi-category retail storefront offering curated fashion, home, electronics, beauty, fitness, and lifestyle essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
